@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **theoishere21@gmail.com**
 
-- - 🧠 **Fun Fact:** I learned programming fast by breaking and fixing things, not from class 😄
+- 🧠 **Fun Fact:** I learned programming fast by breaking and fixing things, not from class 😄
 
 ---
 
