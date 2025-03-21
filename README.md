@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Theo</h1>
+<h3 align="center">Intermediate Lua & Python Programmer | Computer Science Student</h3>
 
-<!--
-**ohheytheo/ohheytheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'm currently learning database systems and management: **MySQL, MongoDB**
 
-Here are some ideas to get you started:
+- 💬 Ask me about: **Lua, Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚧 Working to create high-quality open-source resources for **FiveM**
+
+- 🤝 I'm open to collaborating on open-source projects, especially around **FiveM scripting**
+
+- 📫 How to reach me: **theoishere21@gmail.com**
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
+  </a>
+</p>
