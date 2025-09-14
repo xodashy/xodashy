@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Theo</h1>
+<h1 align="left">Hi 👋, I'm Theo A Backend Developer</h1>
 <h3 align="left">Intermediate Lua & Python Programmer | Computer Science Student</h3>
 
 - 🌱 I'm currently learning database systems and management: **MySQL, MongoDB, Javascript, Ruby**
